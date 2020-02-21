@@ -1,5 +1,5 @@
 CCFLAGS = -g -std=c++11
 
-lab9:	main.cpp QS.cpp 
-	g++ $(CCFLAGS)  -o lab9 main.cpp QS.cpp
+lab5:	main.cpp QS.cpp 
+	g++ $(CCFLAGS)  -o lab5 main.cpp QS.cpp
 
